@@ -19,3 +19,6 @@ Header 1| Header2
 cell 1| cell 2
 
 ### Zmiana README.md z przeglądarki
+
+
+####Klonowanie Repozytorium
